@@ -37,7 +37,7 @@ This script is a simple tool that allows users to schedule a system shutdown aft
 
 3. Run the script using Python:
     ```bash
-    python shutdown_timer.py
+    python Turn-Off-The-System.py
     ```
 
 4. Enter the number of minutes before shutdown, and follow the on-screen instructions.
